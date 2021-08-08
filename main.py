@@ -49,6 +49,6 @@ class MainWindow(QMainWindow):
         self.url_bar.setText(q.toString())
 
 app = QApplication(sys.argv)
-QApplication.setApplicationName('MinisurferPyQt5')
+QApplication.setApplicationName('Minisurfer')
 window = MainWindow()
 app.exec_()
