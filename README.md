@@ -10,6 +10,6 @@ Install PyQtWebEngine with this command:
 Finally, Go to the folder containing the main.py file and execute this command:
 ```python3.9 ./main.py```
 For Linux:
-````python3.8 ./main.py```
+```python3.8 ./main.py```
 # When will this get updated
 Soon™
