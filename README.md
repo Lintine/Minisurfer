@@ -1,9 +1,9 @@
 # Note
-This browser has been cancelled because of alot of controversy happening. 
+~~This browser has been cancelled because of alot of controversy happening.~~ Nope, this browser is back and soon enough updated.
 # Minisurfer
 A simple browser made with python. 
 # How to run
-You need to install Python 3.9 (3.8 with Linux) and PyQt5.
+You need to install Python 3.7 or higher and PyQt5.
 The installation of Python depends on your Operating System.
 Install PyQt5 with this command:
 ```pip install PyQt5```.
