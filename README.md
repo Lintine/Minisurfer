@@ -1,3 +1,5 @@
+# project abandnoed!
+
 # Note
 ~~This browser has been cancelled because of alot of controversy happening.~~ Nope, this browser is back and soon enough updated.
 
